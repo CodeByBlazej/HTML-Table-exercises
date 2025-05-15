@@ -30,8 +30,7 @@ tr:nth-child(odd) td {
   background-color: rgb(245,245,245);
 }
 
-table thead th:nth-child(3),
-table tbody td:nth-child(3) {
+table thead th:nth-child(2) {
   border: 2px solid black
 }
 
