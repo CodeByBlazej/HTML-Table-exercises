@@ -30,11 +30,6 @@ tr:nth-child(odd) td {
   background-color: rgb(245,245,245);
 }
 
-table thead th:nth-child(2),
-table tbody th:nth-child(1) {
-  border: 2px solid black
-}
-
 caption {
   padding: 10px;
 }
