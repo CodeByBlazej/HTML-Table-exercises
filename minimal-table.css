@@ -30,7 +30,7 @@ tr:nth-child(odd) td {
   background-color: rgb(245,245,245);
 }
 
-tr td:nth-child(2) th {
+thead th:nth-child(2) {
   border: 2px solid black
 }
 
