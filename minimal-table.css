@@ -31,7 +31,7 @@ tr:nth-child(odd) td {
 }
 
 table thead th:nth-child(2),
-table tbody th:nth-child(2) {
+table tbody th:nth-child(1) {
   border: 2px solid black
 }
 
